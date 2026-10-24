@@ -1,13 +1,10 @@
 #include <iostream>
 #include <string>
 #include <cstdlib> // For exit(1)
-
-
 #include "graph_types.h"
 #include "queue.h"
 #include "graph_funcs.h"
 #include "heap_funcs.h"
-
 
 using namespace std;
 int main()
