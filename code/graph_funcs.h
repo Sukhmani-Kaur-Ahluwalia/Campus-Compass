@@ -1,11 +1,8 @@
 #ifndef GRAPH_FUNCS_H
 #define GRAPH_FUNCS_H
-
 #include "graph_types.h"
 #include <cstring>
-
 using namespace std;
-
 // ======================== GRAPH CLASS ========================
 class Graph {
 private:
